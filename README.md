@@ -1,3 +1,5 @@
+This is the repository (moved from gitlab) of the Spring 2018 project "Video as a Sensor" through the Illinois Geometry Lab. We post-processed the output of the darknet neural network (see below) to remember detections over multiple frames of a video and add features like blurring. Note that we did not modify the topology of the network, nor did we use any kind of RNN. Most of the changes from the vanilla darknet code are in src/image.c.
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 #Darknet#
